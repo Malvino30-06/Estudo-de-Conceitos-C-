@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vJhO5gQMvTE=",
+  "success": true,
+  "projectFilePath": "D:\\c#\\PraticandoConceitos\\PraticandoConceitos\\PraticandoConceitos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaiqu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\kaiqu\\.nuget\\packages\\unity\\5.11.10\\unity.5.11.10.nupkg.sha512"
+  ],
+  "logs": []
+}
